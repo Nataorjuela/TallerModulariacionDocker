@@ -16,3 +16,7 @@
 ## Segunda parte: crear imagen para docker y subirla
 
 ![image](https://user-images.githubusercontent.com/54339107/193950747-bea9c9e9-5458-4891-91a2-31d2e095fa8a.png)
+
+***Imagen obtenida***
+
+![image](https://user-images.githubusercontent.com/54339107/193950894-7141a2bc-41cf-4e39-b2ab-4615055a48d3.png)
