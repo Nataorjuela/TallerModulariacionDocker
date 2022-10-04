@@ -20,3 +20,7 @@
 ***Imagen obtenida***
 
 ![image](https://user-images.githubusercontent.com/54339107/193950894-7141a2bc-41cf-4e39-b2ab-4615055a48d3.png)
+
+***distribución de contenedores***
+
+![image](https://user-images.githubusercontent.com/54339107/193951091-87e57561-6703-4b93-93c0-82ce887f78ab.png)
