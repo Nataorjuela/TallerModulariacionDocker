@@ -39,3 +39,25 @@
 
 ![image](https://user-images.githubusercontent.com/54339107/193952900-a9602d5a-1d55-4c26-a720-567a32c769d3.png)
 
+## Cuarta parte: AWS
+
+***Acceda a la máquina virtual***
+
+![image](https://user-images.githubusercontent.com/54339107/193955437-56435f6f-9446-49a4-a463-fcf45303557e.png)
+
+![image](https://user-images.githubusercontent.com/54339107/193955478-3026ee4e-499f-4485-8890-ed7f69e74003.png)
+
+![image](https://user-images.githubusercontent.com/54339107/193955707-ece26de6-4bbb-4541-b8c8-a3d2233800f4.png)
+
+***instalacion de docker en maquina virutal***
+
+![image](https://user-images.githubusercontent.com/54339107/193955897-d6e61d19-e141-4c84-84ba-8b1219355aa9.png)
+
+![image](https://user-images.githubusercontent.com/54339107/193958696-82a31914-2d3a-4d23-ba77-bba23eafd6ae.png)
+
+***Prueba de funcionamiento***
+
+![image](https://user-images.githubusercontent.com/54339107/193958820-be56917d-c0d1-45a5-ae30-498a18a605a5.png)
+
+
+_______________________________
