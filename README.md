@@ -33,3 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/54339107/193952130-afd6c545-052d-4d7b-936c-2f59d77e8bf9.png)
 
+**Verificacion de tags**
+
+![image](https://user-images.githubusercontent.com/54339107/193952900-a9602d5a-1d55-4c26-a720-567a32c769d3.png)
+
