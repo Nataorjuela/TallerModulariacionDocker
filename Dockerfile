@@ -1,24 +1,10 @@
-version: '2'
+FROM openjdk:8
 
+WORKDIR /usrapp/bin
 
-services:
-    web:
-        build:
-            context: .
-            dockerfile: Dockerfile
-        container_name: web
-        ports:
-            - "8087:6000"
-    db:
-        image: mongo:3.6.1
-        container_name: db
-        volumes:
-            - mongodb:/data/db
-            - mongodb_config:/data/configdb
-        ports:
-            - 27017:27017
-        command: mongod
-        
-volumes:
-    mongodb:
-    mongodb_config:
+ENV PORT 6000
+
+COPY /target/classes /usrapp/bin/classes
+COPY /target/dependency /usrapp/bin/dependency
+
+CMD ["java","-cp","./classes:./dependency/*","co.edu.escuelaing.sparkdockerdemolive.SparkWebServer"]
