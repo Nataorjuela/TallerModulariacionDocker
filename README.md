@@ -24,3 +24,12 @@
 ***distribución de contenedores***
 
 ![image](https://user-images.githubusercontent.com/54339107/193951091-87e57561-6703-4b93-93c0-82ce887f78ab.png)
+
+**Verificación de funcionamiento de imagen de uno de los contenedores**
+
+![image](https://user-images.githubusercontent.com/54339107/193951382-f84de133-82e0-477f-946f-69c9c81d4a14.png)
+
+**Verificación en docker desktop**
+
+![image](https://user-images.githubusercontent.com/54339107/193952130-afd6c545-052d-4d7b-936c-2f59d77e8bf9.png)
+
